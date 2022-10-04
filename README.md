@@ -6,7 +6,7 @@
 
 ## Estilos de letra:
 Para cambiar los estilos en Markdown usaremos asteriscos * y guiones bajos _  
-Estos estilos se pueden combinar
+Estos estilos se pueden combinar  
 !(Estilos)[img/estilos]
 
 *Cursiva*
