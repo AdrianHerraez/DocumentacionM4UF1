@@ -21,12 +21,12 @@ Los encabezados tienen un estilo asociado por defecto.
 ### Listas ordenadas:
 1. Para crear una lista ordenada usamos 'numero.' Ej.: 1.
     1. Las listas se pueden anidar o combinar añadiendo 4 espacios antes del siguiente
-    5. El numero de la lista no es necesario que sea consecutivo
+5. El numero de la lista no es necesario que sea consecutivo ya que el numero cambia segun en la posición en la que se encuentre
 
 ### Listas desordenadas:
 - Para crear una lista desordenada podemos usar: guion '-', suma '+' o asterisco '*'
 + El simbolo usado para crear la lista no importa ya que todos se veran igual al procesarse
-    * aaa
+    * Estas listas tambien se pueden anidar o combinar
 
 # HTML
 
