@@ -47,6 +47,9 @@ Para realizar un salto de línea y empezar una frase en una línea siguiente den
 + El simbolo usado para crear la lista no importa ya que todos se veran igual al procesarse
     * Estas listas tambien se pueden anidar o combinar
 
+## Codigo
+
+
 # HTML
 
 # CSS
