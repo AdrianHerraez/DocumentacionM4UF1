@@ -4,6 +4,16 @@
 
 # MARKDOWN
 
+## Estilos de letra:
+Para cambiar los estilos en Markdown usaremos asteriscos * y guiones bajos _  
+Estos estilos se pueden combinar
+
+*Cursiva*
+
+**Negrita**
+
+***Combinado***
+
 ## Encabezados:
 Para crear encabezados en Markdown usamos las almohadillas '#', añadiendo 1 por cada nivel hasta un maximo de 6.  
 Puedes cerrar los encabezados añadiendo el mismo numero de almohadillas al final.  
