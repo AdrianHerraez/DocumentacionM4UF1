@@ -7,6 +7,7 @@
 ## Estilos de letra:
 Para cambiar los estilos en Markdown usaremos asteriscos * y guiones bajos _  
 Estos estilos se pueden combinar  
+
 ![Estilos](img/estilos.png)
 
 *Cursiva*
@@ -26,6 +27,13 @@ Los encabezados tienen un estilo asociado por defecto.
  #### ####Encabezado 4
  ##### #####Encabezado 5
  ###### ######Encabezado 6
+
+## Parrafos y Saltos de linea:
+Para generar un nuevo párrafo en Markdown simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
+
+Markdown no soporta dobles líneas en blanco, así que si intentas generarlas estas se convertirán en una sola al procesarse.  
+Para realizar un salto de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, tendrás que pulsar dos veces la barra espaciadora antes de pulsar una vez intro.
+
 
 ## Listas:
 
