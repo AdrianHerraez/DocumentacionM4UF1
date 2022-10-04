@@ -5,8 +5,8 @@
 # MARKDOWN
 
 ## Encabezados:
-Para crear encabezados en Markdown usamos las almohadillas '#', añadiendo 1 por cada nivel hasta un maximo de 6.
-Puedes cerrar los encabezados añadiendo el mismo numero de almohadillas al final
+Para crear encabezados en Markdown usamos las almohadillas '#', añadiendo 1 por cada nivel hasta un maximo de 6.  
+Puedes cerrar los encabezados añadiendo el mismo numero de almohadillas al final.  
 Los encabezados tienen un estilo asociado por defecto.
 
  # #Encabezado 1
@@ -19,9 +19,14 @@ Los encabezados tienen un estilo asociado por defecto.
 ## Listas:
 
 ### Listas ordenadas:
-Para crear una lista ordenada
+1. Para crear una lista ordenada usamos 'numero.' Ej.: 1.
+    1. Las listas se pueden anidar o combinar añadiendo 4 espacios antes del siguiente
+    5. El numero de la lista no es necesario que sea consecutivo
 
 ### Listas desordenadas:
+- Para crear una lista desordenada podemos usar: guion '-', suma '+' o asterisco '*'
++ El simbolo usado para crear la lista no importa ya que todos se veran igual al procesarse
+    * aaa
 
 # HTML
 
