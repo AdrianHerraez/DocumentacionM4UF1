@@ -1,12 +1,22 @@
 # DocumentaciónM4UF1
 
 # GITHUB
-Para crear un nuevo repositorio
-![Estilos](img/creaciongit1.png)
+Para crear un nuevo repositorio nos situamos en nuestro perfil en el apartado `Repositories` y clicamos en `New`  
 ![Estilos](img/creaciongit2.png)
+
+En el apartado de la creación podremos importar un repositorio con el codigo de otro clicando en `Import a repository` o crear uno de 0.  
+Para crearlo agregaremos un nombre de repositorio, definiremos quien puede ver nuestro repositorio `Public o Private` y añadiremos un archivo readme clicando en la casilla `Add a README file` en caso de necesitarlo. Ahora simplemente le damos a `Create repository` y ya tendriamos el repositorio.
 ![Estilos](img/creaciongit3.png)
+
+Una vez tengamos el repositorio acabado, lo subiremos a traves de Github pages.  
+Para hacer esto tendremos que dirigirnos a la configuración `Settings`, luego al apartado `Pages` y seleccionar la rama que queramos subir, en este caso sera `main`.
+La seleccionamos, guardamos clicando en `Save` y esperamos unos minutos.
 ![Estilos](img/creaciongit5.png)
+
+En un par de minutos ya tendremos nustra pagina web subida.
 ![Estilos](img/creaciongit6.png)
+
+Por último, si queremos trabajar con el repositorio en local, tendremos que dirigirnos a `Code` y copiar el HTTPS que luego pegaremos en local.
 ![Estilos](img/creaciongit4.png)
 
 
