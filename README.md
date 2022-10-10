@@ -1,14 +1,22 @@
 # DocumentaciónM4UF1
 
 # GITHUB
-Para vincular un repositorio
+Para crear un nuevo repositorio 
+
+Para clonar un repositorio de Github en local copiaremos el codigo del repositorio y lo pegaremos en el terminal:  
 ![Estilos](img/git4.png)
 
+Para subir los archivos a Github, tendremos que poner los siguientes comandos:
+
+- Selecciona lo que queremos subir, en este caso ponemos `.` para seleccionar todo  
 ![Estilos](img/git1.png)
 
+- Enviamos las actualizaciones que hemos hecho del repositorio `commit` y le damos un nombre a la version `-m`  
 ![Estilos](img/git2.png)
 
+- Subimos el repositorio a Github
 ![Estilos](img/git3.png)
+
 
 # MARKDOWN
 
@@ -61,8 +69,9 @@ El codigo se tiene que introducir dentro de accentos graves '` `` `'.
 `codigo`
 
 Para crear un bloque que contenga codigo, este se ha de incluir entre tres accentos graves '` ``` `'.
+
 ```
-hola
+codigo
 ```
 
 
