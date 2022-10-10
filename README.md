@@ -70,6 +70,12 @@ Para realizar un salto de línea y empezar una frase en una línea siguiente den
 
 ## Imagenes
 
+### Imagen en linea
+Las imagenes en linea estan compuestas por una exclamación `!` para definir que estas haciendo una imagen, un texto alternativo `[]` y la dirección `()`:
+`![TextoAlternativo](RutaImg.png)`
+
+### Imagen de referencia
+
 
 ## Enlaces
 
@@ -92,8 +98,8 @@ Para realizar un salto de línea y empezar una frase en una línea siguiente den
 -Para crear un encabezado, debajo de este añadiremos una columna con las mismas filas separadas con `|` y en vez de texto, pondremos 2 o mas guiones `--`. En esta separación, podremos definir la alineación de las columnas con `:`
 -Para añadir mas columnas simplemente seguiremos con la misma estructura (no hace falta que las columnas esten alineads verticalmente)
 
-Ej:
-![Estilos](img/columnas.png)
+Ej:  
+![Estilos](img/creaciongit2.png)
 
 |Columna1|Columna2|Columna3|
 |:--|--|--:|
