@@ -1,7 +1,14 @@
 # DocumentaciónM4UF1
 
 # GITHUB
-Para crear un nuevo repositorio 
+Para crear un nuevo repositorio
+![Estilos](img/creaciongit1.png)
+![Estilos](img/creaciongit2.png)
+![Estilos](img/creaciongit3.png)
+![Estilos](img/creaciongit5.png)
+![Estilos](img/creaciongit6.png)
+![Estilos](img/creaciongit4.png)
+
 
 Para clonar un repositorio de Github en local copiaremos el codigo del repositorio y lo pegaremos en el terminal:  
 ![Estilos](img/git4.png)
