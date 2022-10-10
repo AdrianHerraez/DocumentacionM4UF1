@@ -48,6 +48,13 @@ Para realizar un salto de línea y empezar una frase en una línea siguiente den
     * Estas listas tambien se pueden anidar o combinar
 
 ## Codigo
+El codigo se tiene que introducir dentro de accentos graves '`'.
+`codigo`
+
+Para crear un bloque que contenga codigo, este se ha de incluir entre tres accentos graves '```'.
+```
+hola
+```
 
 
 # HTML
