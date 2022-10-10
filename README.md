@@ -1,7 +1,7 @@
 # DocumentaciónM4UF1
 
 # GITHUB
-Para crear un nuevo repositorio nos situamos en nuestro perfil en el apartado `Repositories` y clicamos en `New`  
+Para crear un nuevo repositorio nos situamos en nuestro perfil en el apartado `Repositories` y clicamos en `New`.  
 ![Estilos](img/creaciongit2.png)
 
 En el apartado de la creación podremos importar un repositorio con el codigo de otro clicando en `Import a repository` o crear uno de 0.  
@@ -31,7 +31,7 @@ Para subir los archivos a Github, tendremos que poner los siguientes comandos:
 - Enviamos las actualizaciones que hemos hecho del repositorio `commit` y le damos un nombre a la version `-m`  
 ![Estilos](img/git2.png)
 
-- Subimos el repositorio a Github
+- Subimos el repositorio a Github  
 ![Estilos](img/git3.png)
 
 
@@ -68,6 +68,12 @@ Markdown no soporta dobles líneas en blanco, así que si intentas generarlas es
 Para realizar un salto de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, tendrás que pulsar dos veces la barra espaciadora antes de pulsar una vez intro.
 
 
+## Imagenes
+
+
+## Enlaces
+
+
 ## Listas:
 
 ### Listas ordenadas:
@@ -79,6 +85,18 @@ Para realizar un salto de línea y empezar una frase en una línea siguiente den
 - Para crear una lista desordenada podemos usar: guion `-`, suma `+` o asterisco `*`
 + El simbolo usado para crear la lista no importa ya que todos se veran igual al procesarse
     * Estas listas tambien se pueden anidar o combinar
+
+
+## Tablas
+-Para crear las filas usaremos las barras verticles `|` entre una y otra
+-Para crear un encabezado, debajo de este añadiremos una columna con las mismas filas separadas con `|` y en vez de texto, pondremos 2 o mas guiones `--`. En esta separación, podremos definir la alineación de las columnas con `:`
+-Para añadir mas columnas simplemente seguiremos con la misma estructura (no hace falta que las columnas esten alineads verticalmente)
+
+Ej:
+|Columna1|Columna2|Columna3|
+|:--|--|--:|
+|Texto1|Texto2|Texto3|
+
 
 ## Codigo
 El codigo se tiene que introducir dentro de accentos graves '` `` `'.
