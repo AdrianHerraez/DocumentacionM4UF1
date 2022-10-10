@@ -93,7 +93,7 @@ Para realizar un salto de línea y empezar una frase en una línea siguiente den
 -Para añadir mas columnas simplemente seguiremos con la misma estructura (no hace falta que las columnas esten alineads verticalmente)
 
 Ej:
-![Estilos](img/creaciongit2.png)
+![Estilos](img/columnas.png)
 
 |Columna1|Columna2|Columna3|
 |:--|--|--:|
