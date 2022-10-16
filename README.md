@@ -70,12 +70,16 @@ Para realizar un salto de línea y empezar una frase en una línea siguiente den
 
 ## Imagenes
 
-### Imagen en linea
+### Imagen en linea  
 Las imagenes en linea estan compuestas por una exclamación `!` para definir que estas haciendo una imagen, un texto alternativo `[]` y la dirección `()`:
 `![TextoAlternativo](RutaImg.png)`
 
-### Imagen de referencia
-
+### Imagen de referencia  
+Las imagenes de referenciaa estan compuestas por una exclamación `!` para definir que estas haciendo una imagen, un texto alternativo `[]` y la referencia `[]`.
+Y donde queramos añadir la imagen pondremos el nombre de la referencia `[]` la dirección `:https//` y el texto alternativo `""`:
+`![TextoAlternativo][NombreReferencia]
+[NombreReferencia]:Link"TextoAlternativo"
+`
 
 ## Enlaces
 
