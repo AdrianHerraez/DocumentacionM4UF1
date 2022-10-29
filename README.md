@@ -103,9 +103,11 @@ Y donde queramos añadir la imagen pondremos el nombre de la referencia `[]` la 
 -Para añadir mas columnas simplemente seguiremos con la misma estructura (no hace falta que las columnas esten alineads verticalmente)
 
 Ej:  
-`|Columna1|Columna2|Columna3|<br>
-|:--|--|--:|<br>
-|Texto1|Texto2|Texto3|`
+```
+|Columna1|Columna2|Columna3|
+|:--|--|--:|
+|Texto1|Texto2|Texto3|
+```
 |Columna1|Columna2|Columna3|
 |:--|--|--:|
 |Texto1|Texto2|Texto3|
