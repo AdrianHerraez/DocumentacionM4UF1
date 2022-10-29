@@ -126,7 +126,7 @@ codigo
 
 
 # HTML
-![HTML](HTML.png)
+![HTML](img/HTML.png)
 
 # CSS
 
