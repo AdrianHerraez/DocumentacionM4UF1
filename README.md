@@ -82,6 +82,9 @@ Y donde queramos añadir la imagen pondremos el nombre de la referencia `[]` la 
 `
 
 ## Enlaces
+Los enlaces estan compuestos por el texto que contendra el link `[]`, el link `()`.  
+`[Link](https://ejemplo.com/ "Título opcional del enlace")`  
+[Link](https://google.com/)
 
 
 ## Listas:
