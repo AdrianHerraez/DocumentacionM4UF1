@@ -222,8 +222,14 @@ h1 + h2 {
 
 
 ## Pseudoclases
+Las pseudoclases CSS son selectores que permiten aplicar estilos a elementos HTML en función de ciertos estados o condiciones específicas.
+Las pseudoclases siempre empiezan por `:` por ejemplo `:hover` o `:focus`.
 
-## Pseudo elementos
+
+## Pseudoelementos
+Los pseudoelementos CSS son selectores que permiten aplicar estilos a elementos específicos de un elemento HTML, como por ejemplo el primer o el último carácter de un párrafo.
+Los pseudoelementos siempre empiezan por `::` por ejemplo `::before` o `::first-letter`.
+
 
 ## Elementos importantes
 
