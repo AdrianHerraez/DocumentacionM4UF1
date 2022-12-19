@@ -131,6 +131,103 @@ codigo
 # HTML
 ![HTML](img/HTML.png)
 
+
 # CSS
+CSS (Cascading Style Sheets) es un lenguaje de marcas que se utiliza para describir la apariencia de un documento escrito en HTML o XML dandoles estilo y formato, permitiendo cambiar el aspecto visual de un sitio web o aplicación.
+
+## Ubicación
+### Estilo en linea  
+En el estilo en linea, el CSS se aplica directamente al elemento HTML mediante el elemento `style`. Por ejemplo:
+
+### Estilo interno 
+El estilo interno se añade a un elemento HTML mediante el elemento `style` en el encabezado del documento. Por ejemplo:
+
+### Estilo externo 
+Por último, el estilo externo se añade a un documento HTML mediante la etiqueta `link` en el encabezado del documento, y haciendo referencia a un archivo CSS externo. Por ejemplo:
+
+## Estructura
+La estructura que hay que seguir en los estilos internos y externos es la siguiente:
+```
+selector{
+ atributo1;
+ atributo2;
+}
+```
+
+## Selectores
+### Selector universal
+El selector universal selecciona todos los elementos del documento. Se representa con el símbolo `*`. Por ejemplo, la siguiente regla CSS aplica un estilo a todos los elementos del documento:
+```
+* {
+  color: red;
+}
+```
+
+### Selector de id
+El selector de ID selecciona un elemento con un determinado ID. Se representa con el símbolo `#` seguido del nombre del ID. Por ejemplo, la siguiente regla CSS selecciona el elemento con ID "título" y le aplica un estilo:
+```
+#titulo {
+  font-size: 24px;
+  font-weight: bold;
+}
+```
+
+### Selector de clase
+El selector de clase selecciona todos los elementos con una determinada clase. Se representa con el símbolo `.` seguido del nombre de la clase. Por ejemplo, la siguiente regla CSS selecciona todos los elementos con la clase "destacado" y les aplica un estilo:
+```
+.destacado {
+  background-color: yellow;
+}
+```
+
+### Selector de elemento
+El selector de elemento selecciona todos los elementos de un tipo específico. Por ejemplo, la siguiente regla CSS selecciona todos los elementos "p"  y les aplica un estilo:
+```
+p {
+  font-size: 16px;
+}
+```
+
+### Selector de atributos
+El selector de atributos selecciona elementos que tienen un determinado atributo o valor de atributo. Por ejemplo, la siguiente regla CSS selecciona todos los elementos "a" (enlaces) que tienen el atributo "href" con un valor que comience por "https":
+```
+a[href^="https"] {
+  color: green;
+}
+```
+
+### Selector de hijos
+El selector de hijos selecciona elementos que son hijos directos de otro elemento. Se representa con el símbolo `>` entre dos selectores. Por ejemplo, la siguiente regla CSS selecciona todos los elementos "li" (elementos de lista) que son hijos directos de un elemento "ul" (lista sin ordenar):
+```
+ul > li {
+  color: red;
+}
+```
+
+### Selector de descendientes
+El selector de descendientes selecciona elementos que están contenidos en otro elemento en el árbol de elementos del documento, independientemente de si son hijos directos o no. Por ejemplo, la siguiente regla CSS selecciona todos los elementos "li" (elementos de lista) que están contenidos en un elemento "ul" (lista sin ordenar), ya sea como hijos directos o como descendientes de algún otro elemento:
+```
+ul li {
+  color: red;
+}
+```
+
+### Selector de hermanos adyacentes
+El selector de hermanos adyacentes selecciona elementos que están inmediatamente después de otro elemento en el árbol de elementos del documento. Se representa con el símbolo "+" entre dos selectores. Por ejemplo, la siguiente regla CSS selecciona todos los elementos "h2" que están inmediatamente después de un elemento "h1":
+```
+h1 + h2 {
+  color: red;
+}
+```
+
+
+## Pseudoclases
+
+## Pseudo elementos
+
+## Elementos importantes
+
+
+
 
 # RESPONSIVE
