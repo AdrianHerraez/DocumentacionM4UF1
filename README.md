@@ -232,8 +232,3 @@ Los pseudoelementos siempre empiezan por `::` por ejemplo `::before` o `::first-
 
 
 ## Elementos importantes
-
-
-
-
-# RESPONSIVE
