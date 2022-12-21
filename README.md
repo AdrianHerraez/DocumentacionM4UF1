@@ -138,12 +138,35 @@ CSS (Cascading Style Sheets) es un lenguaje de marcas que se utiliza para descri
 ## Ubicación
 ### Estilo en linea  
 En el estilo en linea, el CSS se aplica directamente al elemento HTML mediante el elemento `style`. Por ejemplo:
+```
+<p style="color:red; font-size:20px;">Este párrafo tiene un estilo en línea</p>
+```
 
 ### Estilo interno 
 El estilo interno se añade a un elemento HTML mediante el elemento `style` en el encabezado del documento. Por ejemplo:
+```
+<head>
+  <style>
+    p {
+      color: blue;
+    }
+  </style>
+</head>
+```
 
 ### Estilo externo 
 Por último, el estilo externo se añade a un documento HTML mediante la etiqueta `link` en el encabezado del documento, y haciendo referencia a un archivo CSS externo. Por ejemplo:
+```
+<head>
+  <link rel="stylesheet" type="text/css" href="estilos.css">
+</head>
+```
+```
+p {
+  color: red;
+  font-size: 20px;
+}
+```
 
 ## Estructura
 La estructura que hay que seguir en los estilos internos y externos es la siguiente:
