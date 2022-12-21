@@ -254,4 +254,12 @@ Los pseudoelementos CSS son selectores que permiten aplicar estilos a elementos 
 Los pseudoelementos siempre empiezan por `::` por ejemplo `::before` o `::first-letter`.
 
 
-## Elementos importantes
+## Atributos importantes
+- MARGIN: El atributo margin es utilizado para establecer los márgenes externos de un elemento HTML. Ej: `margin: 20px;`.
+- PADDING: El atributo padding es utilizado para establecer el relleno interno de un elemento HTML. Ej: `padding: 20px;`.
+- TEXT-ALIGN: El atributo text-align es utilizado para alinear el texto de un elemento HTML. Ej: `text-align: center;`
+- COLOR: El atributo color es utilizado para establecer el color del texto de un elemento HTML. Ej: `color: red`
+- BORDER: El atributo border es utilizado para establecer un borde alrededor de un elemento HTML. El borde puede ser definido utilizando una combinación de propiedades. Ej: `border: 10px solid red;`
+- BACKGROUND-COLOR: El atributo background-color es utilizado para establecer el color de fondo de un elemento HTML. Ej: `background-color: green;`
+- WIDTH: El atributo width es utilizado para establecer el ancho de un elemento HTML. Ej: `width: 500px;`
+- HEIGHT: El atributo height es utilizado para establecer la altura de un elemento HTML. Ej: `height: 300px;`
